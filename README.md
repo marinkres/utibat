@@ -8,6 +8,12 @@
 - Show a progress bar representing the battery level.
 - Colored output to indicate different battery levels.
 
+## Example Output
+```sh
+Battery Percentage:  57%
+[##########----------]
+```
+
 ## Installation
 
 You can install `utibat` via pip:
@@ -25,11 +31,7 @@ utibat battery
 ```
 This will display the current battery percentage along with a progress bar.
 
-## Example Output
-```sh
-Battery Percentage:  57%
-[##########----------]
-```
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
