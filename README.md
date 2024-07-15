@@ -23,10 +23,7 @@ You can install `utibat` via pip:
 ```sh
 pip install utibat
 ```
-## Install dependencies
-```sh
-pip install -r requirements.txt
-```
+
 ## Usage
 ```sh
 utibat battery
