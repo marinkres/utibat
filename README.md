@@ -2,8 +2,7 @@
 
 https://pypi.org/project/utibat/
 
-`utibat` is a simple command-line tool for displaying battery information and a progress bar representation of the battery percentage. It utilizes `click` for the CLI, `psutil` for accessing battery information, and `colorama` for colored output.
-
+`utibat` is a simple command-line tool for displaying battery percentage.
 ## Features
 
 - Display the current battery percentage.
@@ -33,5 +32,3 @@ This will display the current battery percentage along with a progress bar.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Author
-Your Name - Marin Kresic
