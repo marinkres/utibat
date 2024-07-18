@@ -1,4 +1,8 @@
 /Lib
 /Scripts
-/tests
+utibat/tests
 /utibat.egg-info
+/utibat/__pycache__
+/__pycache__
+utibat/Lib
+utibat/Scripts

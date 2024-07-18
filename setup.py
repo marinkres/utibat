@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="utibat",
-    version="0.1.0",
+    version="0.3.0",
     author="Marin",
     author_email="utikacbeats@gmail.com",
     description="A CLI tool to display battery information",
