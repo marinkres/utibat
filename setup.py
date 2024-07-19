@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="utibat",
-    version="0.3.0",
+    version="0.4.1",
     author="Marin",
     author_email="utikacbeats@gmail.com",
     description="A CLI tool to display battery information",
@@ -14,7 +14,7 @@ setup(
     install_requires=[
         "click",
         "psutil",
-        "colorama"
+        "rich"
     ],
     entry_points={
         "console_scripts": [
