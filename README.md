@@ -2,8 +2,6 @@
 [![Python Versions](https://img.shields.io/pypi/pyversions/utibat)](https://pypi.org/project/utibat/)
 [![Dependencies](https://img.shields.io/librariesio/release/pypi/utibat)](https://libraries.io/pypi/utibat)
 
-[![Codecov](https://codecov.io/gh/marinkres/utibat/branch/main/graph/badge.svg)](https://codecov.io/gh/marinkress/utibat)
-
 
 # utibat
 
